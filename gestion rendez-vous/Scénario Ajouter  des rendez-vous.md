@@ -14,7 +14,7 @@ Tester le cas d'utilisation  Ajouter les rendez-vous
 
 ## Entrée
 - Diagramme de cas d'utilisation
-- Carte d'empathie
-- Diagramme de classe (optionnel)
+- Carte d'empathie 
+
 ## Livrable
 [Presentation Scénario Ajouter des rendez-vous ](https://docs.google.com/presentation/d/1NseD9JhM040giO7ZgcjKkrrbrzeoyQKIAd1QMdPe2V8/edit?usp=sharing)
