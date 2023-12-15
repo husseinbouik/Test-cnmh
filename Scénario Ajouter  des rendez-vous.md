@@ -12,4 +12,4 @@
 
 
 ## Livrable
-[Presentation Scénario Gestion des rendez-vous(Ajouter) ](https://docs.google.com/presentation/d/1NseD9JhM040giO7ZgcjKkrrbrzeoyQKIAd1QMdPe2V8/edit?usp=sharing)
+[Presentation Scénario Ajouter des rendez-vous ](https://docs.google.com/presentation/d/1NseD9JhM040giO7ZgcjKkrrbrzeoyQKIAd1QMdPe2V8/edit?usp=sharing)
