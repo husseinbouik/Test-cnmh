@@ -1,4 +1,4 @@
-# Scénario Gestion des rendez-vous(Ajouter)
+# Scénario Ajouter des rendez-vous
 
 
 ## Critères de validation
